@@ -73,7 +73,7 @@ La solución provista incluía errores de compilación y fallas de lógica que i
   - Permite empates entre varios jugadores.
 
 ## 🖥️ Ejemplo de salida por consola
-> Salida obtenida a partir de la ejecución de la clase Test, sin lógica de negocio, correspondiente al reporte de jugadores más convocados:
+> Salida obtenida a partir de la ejecución de la clase Test, sin lógica de negocio, correspondiente al reporte de jugadores más convocados.
 
 
 Partido [fecha=20250101, rival=Brasil, condicionMinima=70, cantDefensa=8, cantMediocampo=8, cantDelantera=4]
@@ -83,7 +83,9 @@ Partido [fecha=20250201, rival=Argelia, condicionMinima=70, cantDefensa=8, cantM
 Partido [fecha=20250301, rival=Inglaterra, condicionMinima=70, cantDefensa=8, cantMediocampo=8, cantDelantera=4]
 
 =========================== JUGADORES MAS CONVOCADOS ===========================
+
 Cantidad máxima de convocatorias: 3
+
 Jugadores:
 
 ARQUERO 1 | Condición física: 90
