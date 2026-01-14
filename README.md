@@ -74,6 +74,8 @@ La solución provista incluía errores de compilación y fallas de lógica que i
 
 Ejemplo de salida:
 > Salida obtenida a partir de la ejecución de la clase Test, sin lógica de negocio.
+
+
 Partido [fecha=20250101, rival=Brasil, condicionMinima=70, cantDefensa=8, cantMediocampo=8, cantDelantera=4]
 Partido [fecha=20250201, rival=Argelia, condicionMinima=70, cantDefensa=8, cantMediocampo=8, cantDelantera=4]
 Partido [fecha=20250301, rival=Inglaterra, condicionMinima=70, cantDefensa=8, cantMediocampo=8, cantDelantera=4]
