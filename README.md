@@ -72,12 +72,14 @@ La solución provista incluía errores de compilación y fallas de lógica que i
   - Contempla el caso de registro vacío.
   - Permite empates entre varios jugadores.
 
-Ejemplo de salida:
-> Salida obtenida a partir de la ejecución de la clase Test, sin lógica de negocio.
+## 🖥️ Ejemplo de salida por consola
+> Salida obtenida a partir de la ejecución de la clase Test, sin lógica de negocio, correspondiente al reporte de jugadores más convocados:
 
 
 Partido [fecha=20250101, rival=Brasil, condicionMinima=70, cantDefensa=8, cantMediocampo=8, cantDelantera=4]
+
 Partido [fecha=20250201, rival=Argelia, condicionMinima=70, cantDefensa=8, cantMediocampo=8, cantDelantera=4]
+
 Partido [fecha=20250301, rival=Inglaterra, condicionMinima=70, cantDefensa=8, cantMediocampo=8, cantDelantera=4]
 
 =========================== JUGADORES MAS CONVOCADOS ===========================
@@ -93,43 +95,7 @@ ARQUERO 3 | Condición física: 90
 DEFENSOR 1 | Condición física: 90
 
 DEFENSOR 2 | Condición física: 90
-
-DEFENSOR 3 | Condición física: 90
-
-DEFENSOR 4 | Condición física: 90
-
-DEFENSOR 5 | Condición física: 90
-
-DEFENSOR 6 | Condición física: 90
-
-DEFENSOR 7 | Condición física: 90
-
-DEFENSOR 8 | Condición física: 90
-
-MEDIOCAMPISTA 1 | Condición física: 90
-
-MEDIOCAMPISTA 2 | Condición física: 90
-
-MEDIOCAMPISTA 3 | Condición física: 90
-
-MEDIOCAMPISTA 4 | Condición física: 90
-
-MEDIOCAMPISTA 5 | Condición física: 90
-
-MEDIOCAMPISTA 6 | Condición física: 90
-
-MEDIOCAMPISTA 7 | Condición física: 90
-
-MEDIOCAMPISTA 8 | Condición física: 90
-
-DELANTERO 1 | Condición física: 90
-
-DELANTERO 2 | Condición física: 90
-
-DELANTERO 3 | Condición física: 90
-
-DELANTERO 4 | Condición física: 90
-
+...
 ---
 
 ## 🧪 Pruebas realizadas
