@@ -1,0 +1,10 @@
+package BE_TS1A_BARRERA_GABRIELA;
+
+public enum Posicion {
+
+	ARQUERO,
+	DEFENSOR,
+	MEDIOCAMPISTA,
+	DELANTERO,
+
+}
