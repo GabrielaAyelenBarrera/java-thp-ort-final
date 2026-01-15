@@ -89,6 +89,7 @@ Cantidad máxima de convocatorias: 3
 
 
 Jugadores:
+
 ARQUERO 1 | Condición física: 90
 
 ARQUERO 2 | Condición física: 90
