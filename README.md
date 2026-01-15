@@ -83,7 +83,7 @@ Partido [fecha=20250201, rival=Argelia, condicionMinima=70, cantDefensa=8, cantM
 
 Partido [fecha=20250301, rival=Inglaterra, condicionMinima=70, cantDefensa=8, cantMediocampo=8, cantDelantera=4]
 
-=========================== JUGADORES MAS CONVOCADOS ===========================
+======= JUGADORES MAS CONVOCADOS =======
 
 Cantidad máxima de convocatorias: 3
 
