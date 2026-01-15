@@ -87,6 +87,7 @@ Partido [fecha:20250301, rival:Inglaterra, condicionMinima:70, cantDefensa:8, ca
 
 Cantidad máxima de convocatorias: 3
 
+
 Jugadores:
 
 ARQUERO 1 | Condición física: 90
