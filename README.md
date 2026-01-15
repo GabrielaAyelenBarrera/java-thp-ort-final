@@ -77,11 +77,11 @@ La solución provista incluía errores de compilación y fallas de lógica que i
 
 Listado de partidos gestionados:
 
-Partido [fecha=20250101, rival=Brasil, condicionMinima=70, cantDefensa=8, cantMediocampo=8, cantDelantera=4]
+Partido [fecha:20250101, rival:Brasil, condicionMinima:70, cantDefensa:8, cantMediocampo:8, cantDelantera:4]
 
-Partido [fecha=20250201, rival=Argelia, condicionMinima=70, cantDefensa=8, cantMediocampo=8, cantDelantera=4]
+Partido [fecha:20250201, rival:Argelia, condicionMinima:70, cantDefensa:8, cantMediocampo:8, cantDelantera:4]
 
-Partido [fecha=20250301, rival=Inglaterra, condicionMinima=70, cantDefensa=8, cantMediocampo=8, cantDelantera=4]
+Partido [fecha:20250301, rival:Inglaterra, condicionMinima:70, cantDefensa:8, cantMediocampo:8, cantDelantera:4]
 
 ======= JUGADORES MAS CONVOCADOS =======
 
@@ -97,7 +97,9 @@ ARQUERO 3 | Condición física: 90
 
 DEFENSOR 1 | Condición física: 90
 
-DEFENSOR 2 | Condición física: 90...
+DEFENSOR 2 | Condición física: 90
+
+...
 
 ---
 
