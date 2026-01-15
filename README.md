@@ -1,4 +1,4 @@
-# Examen Final – Asociación Nacional de Fútbol (ANF) ⚽  
+# Módulo Final – Asociación Nacional de Fútbol (ANF) ⚽  
 ## Taller de Herramientas de Programación (THP) – ORT Argentina
 
 Este repositorio contiene la resolución del **Examen Final** de la materia **Taller de Herramientas de Programación**, desarrollada en **Java**, aplicando los conceptos de **programación orientada a objetos**, encapsulamiento, uso de enumerados, colecciones y corrección/extensión de un sistema preexistente, respetando estrictamente el diseño provisto.
